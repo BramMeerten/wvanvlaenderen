@@ -2,14 +2,14 @@
 baseurl = "https://wvanvlaenderen.be/"
 themesDir = "./themes"
 languageCode = "en-us"
-title = "Hugo Cactus Theme"
+title = "Wouter Van Vlaenderen"
 theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 
 [params]
 	name = "Wouter Van Vlaenderen"
-	description = "Describe your website"
+	description = "Full Stack developer & Triathlete"
 	bio = "Full Stack developer & Triathlete"
 	enableRSS = false
 
